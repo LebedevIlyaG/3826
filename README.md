@@ -23,15 +23,13 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 
 Тест: https://forms.gle/dDzVN5Vyy3YY1jRG8
 
-### Семестр 3
+### Семестр 1
 
 |№|Название|Крайний срок|
 |-------------|-------------|-------------|
-
-### Семестр 4
-
-|№|Название|Крайний срок|
-|-------------|-------------|-------------|
+|1|Сумма чисел (Самостоятельно)|04.10.2025|
+|2|Сортировки (Самостоятельно - будут на экзамене) (отчет)|15.11.2025|
+|3|*** ( с ИИ )|20.12.2025|
 
 
 # Записи занятий
@@ -63,8 +61,6 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 
 
 Информация о конкурсе проектов: [http://www.itmm.unn.ru/obuchenie/uchebnyj-process/konkurs-studencheskih-rabot/]
-
-Создание приложения Windows Forms на c++: https://vscode.ru/articles/windows-forms-cpp.html
 
 Git for Windows (консоль): [https://git-scm.com/downloads] 
 
