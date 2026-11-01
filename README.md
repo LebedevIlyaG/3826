@@ -68,6 +68,7 @@ tortoisegit: [https://tortoisegit.org/]
 
 cmake: [http://www.cmake.org]
 
+Сборка GCC (альтернатива без установки): [github.com/skeeto/w64devkit/releases]
 
 # Литература по курсу:
 
